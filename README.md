@@ -7,7 +7,6 @@
 <p align="center">
 🚀 Passionate **IT student** | 💻 Aspiring Developer | 🔒 Cybersecurity & Networking Enthusiast  
 </p>
----
 
 ### 🌟 About Me  
 - 🎓 Currently studying **BSIT** at MSU-IIT  
