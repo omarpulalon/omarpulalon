@@ -1,34 +1,60 @@
+<!-- Banner / GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/S4O6eQqF_3sAAAAd/anime-city.gif" alt="Anime banner" width="100%"/>
+</p>
+
 # 👋 Hi, I'm Omar!
 
-🚀 Passionate **IT student** | 💻 Aspiring Developer | 🔒 Cybersecurity & Networking Enthusiast  
+🚀 Passionate **IT Student** | 💻 Aspiring Developer | 🔒 Cybersecurity & Networking Enthusiast  
 
 ---
 
-### 🌟 About Me
+### 🌟 About Me  
 - 🎓 Currently studying **BSIT** at MSU-IIT  
 - ⚡ Interested in **Graph Theory, Networking, and Security**  
-- 🛠️ I build things with **Python, Java, and Web Tech**  
+- 🛠️ Building with **Python, Java, and Web Tech**  
 - 🎥 Documentary Director | 📚 Lifelong Learner  
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" /><br>
+</p>
 
 ---
 
+### ⚡ GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+### 🎶 Anime Vibes
+<p align="center">
+  <img src="https://media.tenor.com/jS8LME6f-FkAAAAC/zero-two-anime.gif" width="300"/>
+  <img src="https://media.tenor.com/6-LKfjD9c1cAAAAd/gojo-satoru.gif" width="300"/>
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌸 Quote  
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+<p align="center">
+  <img src="https://media.tenor.com/xVn43dW-vz8AAAAC/coding-anime.gif" width="500"/>
+</p>
