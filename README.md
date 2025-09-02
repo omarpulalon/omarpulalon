@@ -1,60 +1,37 @@
-<!-- Banner / GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/S4O6eQqF_3sAAAAd/anime-city.gif" alt="Anime banner" width="100%"/>
-</p>
+# 👋 Hi, I'm Omar!  
 
-# 👋 Hi, I'm Omar!
-
-🚀 Passionate **IT Student** | 💻 Aspiring Developer | 🔒 Cybersecurity & Networking Enthusiast  
+🚀 Passionate **IT student** | 💻 Aspiring Developer | 🔒 Cybersecurity & Networking Enthusiast  
 
 ---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
 
 ### 🌟 About Me  
 - 🎓 Currently studying **BSIT** at MSU-IIT  
 - ⚡ Interested in **Graph Theory, Networking, and Security**  
-- 🛠️ Building with **Python, Java, and Web Tech**  
+- 🛠️ I build things with **Python, Java, and Web Tech**  
 - 🎥 Documentary Director | 📚 Lifelong Learner  
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" /><br>
-</p>
-
----
-
-### ⚡ GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
----
-
-### 🎶 Anime Vibes
-<p align="center">
-  <img src="https://media.tenor.com/jS8LME6f-FkAAAAC/zero-two-anime.gif" width="300"/>
-  <img src="https://media.tenor.com/6-LKfjD9c1cAAAAd/gojo-satoru.gif" width="300"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌸 Quote  
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
-
-<p align="center">
-  <img src="https://media.tenor.com/xVn43dW-vz8AAAAC/coding-anime.gif" width="500"/>
-</p>
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
