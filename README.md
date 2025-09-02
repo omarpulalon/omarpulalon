@@ -4,13 +4,24 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right">
+<table>
+<tr>
+<td>
 
 ### 🌟 About Me  
 - 🎓 Currently studying **BSIT** at MSU-IIT  
 - ⚡ Interested in **Graph Theory, Networking, and Security**  
 - 🛠️ I build things with **Python, Java, and Web Tech**  
 - 🎥 Documentary Director | 📚 Lifelong Learner  
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</td>
+</tr>
+</table>
 
 ---
 
