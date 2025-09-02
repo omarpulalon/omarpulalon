@@ -4,8 +4,9 @@
 <p align="center">
 <h1 align="center">👋 Hi, I'm Omar!</h1>
 </p>
+<p align="center">
 🚀 Passionate **IT student** | 💻 Aspiring Developer | 🔒 Cybersecurity & Networking Enthusiast  
-
+</p>
 ---
 
 ### 🌟 About Me  
